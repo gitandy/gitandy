@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gitandy
-- 👀 I’m interested in Python, IoT, Robots and Linux
-- 🌱 I’m currently learning IT-Security
+- 👀 I’m interested in Python, Linux and Ham Radio
 
 <!---
 gitandy/gitandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
